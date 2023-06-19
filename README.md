@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a pianist, musician and passionate about technology since I can remember.
+
+🔭 I am currently working on NextJs and thoroughly learning all its functionalities.
+
+📫 How to reach me:
+
+You can find all my projects on my portfolio page.
+www.papelfloreado.ar
+
